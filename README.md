@@ -159,7 +159,7 @@ d)	After about 30 seconds, the window will be automatically updated with the pho
 
 # 5 Storing files into Symbiont Server
 
-You can store them in the server under your account.  
+You can also store files saved in the board into the server under your account.  
 To do this, you can open the command prompt in the raspberry Pi, and write "expect autom2.exp" (see below) 
 
 <img width="600" alt="tutorial_21" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/8ece41e9-5416-4da8-bb4c-4b1fecb779b4">
