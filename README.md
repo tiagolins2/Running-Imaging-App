@@ -44,6 +44,10 @@ b.	Password: 190190
 <img width="600" alt="tutorial_4" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/120bcf88-e3e6-4788-9310-0a2a46e852e8">
 
 
+
+
+
+
 # 2 Running Imaging Planner
 
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/4f2ed26d-fde3-4bf7-8e2d-387af65591ad
@@ -130,9 +134,8 @@ f)	Once you made your changes in crontab and save and exit using Ctrl+X, you wil
 
 
 
+
 # 4 Run the image capturing calibration
-
-
 
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/50a5f119-324b-46e8-a272-439973160cda
 
@@ -155,6 +158,8 @@ d)	After about 30 seconds, the window will be automatically updated with the pho
  
 
 ![tutorial_20](https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/507d6a74-00b2-43a5-8ae5-f75b1d9ee9b7)
+
+
 
 
 # 5 Storing files into Symbiont Server
