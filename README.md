@@ -5,7 +5,7 @@ Steps for Controlling Autonomous Tracking System
 
 [2. Running Imaging Planner](#2-running-imaging-planner)
 
-**3.	Schedule experiment with crontab**
+[3.	Schedule runs with crontab](#3-schedule-runs-with-crontab)
 
 **4.	Run the image capturing calibration (optional)****
 
@@ -81,12 +81,36 @@ g)	You can then name each area/pair of plates, and change the dates according to
 
  <img width="600" alt="tutorial_11" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/20c3c93a-5fca-4cba-b218-5375021784ed">
 
-h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button, allowing you to see the results in the app window.
+h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button (*see video below), allowing you to see the results in the app window.
+
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/62d48762-8757-47f0-880b-7e52647a5fb5
 
 i)	Once done, you can now close the app.
 The next step is to schedule when your plates should be imaged.
 
 
+
+
+
+
+
+
+#3 Schedule runs with crontab
+
+a)	In order to set the a pre-defined date to run the code automatically, we must run crontab code from the Raspberry Pi Terminal. Raspberry Pi Terminal can be opened using the icon on the task bar.
+ 
+
+b)	On the terminal, write “crontab -l” and press enter to view any scheduled task for the Raspberry Pi. Note that any line starting with “#” is commented out, which means it is inactive. In the image below, all lines are commented out, hence, there is no active scheduled task for this RPi system.
+ 
+
+c)	In order to edit this crontab tasks, write “crontab -e” command on the Pi Terminal. Once you hit enter, you’ll see the crontab becomes editable. 
+ 
+
+d)	Delete the hashtag “#” in front of the final line of code so as to make it an active task. The active codes becomes white so once you delete the hashtag at the beginning of the line, the line will turn from blue to white. Once you made any change on the crontab, you should press Ctrl+X to save and exit. After pressing Ctrl+X, it’ll ask you to save it. Press Y to save. Then, it’ll ask you where to save the crontab. Do not change the directory or file name and press Enter.
+  
+e)	Note that this code is set to run at 16:00 every day once you delete the hashtag. You can set the time by changing 00 and 18 in the code. If you want more than one arbitrary operations, you can simply copy and paste this line of code, and enter another time. If you want to periodically run any command/code/script, there are other available codes you can find over the net. 
+f)	Once you made your changes in crontab and save and exit using Ctrl+X, you will return to Pi Terminal. To double check your scheduled tasks, you can run crontab -l command to see your changed crontab.
+ 
 
 
 
