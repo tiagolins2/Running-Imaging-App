@@ -62,17 +62,21 @@ Press Okay once done
 d)	Once you press Okay, a new window will appear. Before you name them, first define a start time and end time for the image capturing.
  
 Click on *Update start time*
+
  <img width="404" alt="tutorial_8" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/59cfab83-1129-4dcf-83b6-6d1a3dc2aaf9">
 
 e)	Next, click on Update end time
- <img width="410" alt="tutorial_9" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/84b4c14b-b4e7-4ab3-b021-9bd43a0260bd">
+
+ <img width="600" alt="tutorial_9" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/84b4c14b-b4e7-4ab3-b021-9bd43a0260bd">
 
 f)	You will be asked to enter how many days you want to run your experiment for (i.e. 5 days)
-<img width="382" alt="tutorial_10" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2b5a7434-11df-43fc-bdcf-128f6a36b684">
+
+<img width="600" alt="tutorial_10" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2b5a7434-11df-43fc-bdcf-128f6a36b684">
 
  
 g)	You can then name each area/pair of plates, and change the dates according to your experiment design. Here I named them as numbers going from 1 to 20.
- <img width="413" alt="tutorial_11" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/20c3c93a-5fca-4cba-b218-5375021784ed">
+
+ <img width="600" alt="tutorial_11" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/20c3c93a-5fca-4cba-b218-5375021784ed">
 
 h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button, allowing you to see the results in the app window.
 
