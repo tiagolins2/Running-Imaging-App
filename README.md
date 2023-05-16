@@ -1,7 +1,7 @@
 # Running-Imaging-App
 Steps for Controlling Autonomous Tracking System
 
-[1. Connecting to the Image Capturing Board](#1.-connecting-to-the-image-capturing-board)
+[1. Connecting to the Image Capturing Board](#1-connecting-to-the-image-capturing-board)
 
 [2. Running Imaging Planner](#2-running-imaging-planner)
 
@@ -10,7 +10,7 @@ Steps for Controlling Autonomous Tracking System
 **4.	Run the image capturing calibration (optional)****
 
 
-# 1. Connecting to the Image Capturing Board
+# 1 Connecting to the Image Capturing Board
 
 a)	Download and Install UtorVPN, Cisco (if you do not have it already installed in your computer)
 Here is the link for UtorVPN. Depending on your device, select the proper operating system, install The Cisco AnyConnect Client with the proper settings.
