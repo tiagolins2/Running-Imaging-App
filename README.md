@@ -91,6 +91,8 @@ The next step is to schedule when your plates should be imaged.
 
 # 3 Schedule runs with crontab
 
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2b2375e7-f732-4141-a80f-3a50a3766ef8
+
 a)	In order to set the a pre-defined date to run the code automatically, we must run crontab code from the Raspberry Pi Terminal. Raspberry Pi Terminal can be opened using the icon on the task bar.
 
  ![tutorial_12](https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/ffb12c62-4d8b-4e80-976d-2fe056bbd285)
