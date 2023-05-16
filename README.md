@@ -1,7 +1,7 @@
 # Running-Imaging-App
 Steps for Controlling Autonomous Tracking System
 
-**1.	Connecting to the Image Capturing Board
+**1.	Connecting to the Image Capturing Board**
 
 **2.	Run the image capturing app**
 
