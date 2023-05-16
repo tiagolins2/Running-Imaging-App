@@ -80,12 +80,15 @@ g)	You can then name each area/pair of plates, and change the dates according to
 
  <img width="600" alt="tutorial_11" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/20c3c93a-5fca-4cba-b218-5375021784ed">
 
-h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button (*see video below), allowing you to see the results in the app window.
+h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button (*see video below*) allowing you to see the results in the app window, or running the saved plan to view the output in the board.
 
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/62d48762-8757-47f0-880b-7e52647a5fb5
 
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/6f33d427-7271-4777-80e9-22f9b66dcb37
+
 i)	Once done, you can now close the app.
 The next step is to schedule when your plates should be imaged.
+
 
 
 
@@ -119,6 +122,10 @@ f)	Once you made your changes in crontab and save and exit using Ctrl+X, you wil
 ![tutorial_16](https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/9435f056-ffc2-44dd-be38-973c775432a9)
 
 
+
+
+
+
 # 4 Run the image capturing calibration
 
 
@@ -146,7 +153,14 @@ d)	After about 30 seconds, the window will be automatically updated with the pho
 ![tutorial_20](https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/507d6a74-00b2-43a5-8ae5-f75b1d9ee9b7)
 
 
+# 5 Storing files into Symbiont Server
 
+You can store them in the server under your account.  
+To do this, you can open the command prompt in the raspberry Pi, and write "expect autom2.exp" (see below) 
+
+<img width="600" alt="tutorial_21" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/8ece41e9-5416-4da8-bb4c-4b1fecb779b4">
+
+It will ask you for your user name in Symbiont, a folder name where you want to store all the files (i.e. "test1"), and your password (which won't show up as you type). This will then create the folder in your account and save all the images (from cameras A to D) into the folder.
 
 
 
