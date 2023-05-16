@@ -7,7 +7,7 @@ Steps for Controlling Autonomous Tracking System
 
 [3.	Schedule runs with crontab](#3-schedule-runs-with-crontab)
 
-[4.	Run the image capturing calibration](#4-run-the-image-capturing-calibration)
+[4.	Run the image capturing calibration](#4.-run-the-image-capturing-calibration)
 
 # 1 Connecting to the Image Capturing Board
 
@@ -117,7 +117,7 @@ f)	Once you made your changes in crontab and save and exit using Ctrl+X, you wil
 ![tutorial_16](https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/9435f056-ffc2-44dd-be38-973c775432a9)
 
 
-# 4	Run the image capturing calibration
+# 4. Run the image capturing calibration
 
 
 
