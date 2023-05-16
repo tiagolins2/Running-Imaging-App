@@ -9,6 +9,10 @@ Steps for Controlling Autonomous Tracking System
 
 [4.	Run the image capturing calibration](#4-run-the-image-capturing-calibration)
 
+[5. Storing files into Symbiont Server](#5-storing-files-into-symbiont-server)
+
+
+
 # 1 Connecting to the Image Capturing Board
 
 a)	Download and Install UtorVPN, Cisco (if you do not have it already installed in your computer)
