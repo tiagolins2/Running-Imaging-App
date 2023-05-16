@@ -3,7 +3,7 @@ Steps for Controlling Autonomous Tracking System
 
 [1. Connecting to the Image Capturing Board](#1.-connecting-to-the-image-capturing-board)
 
-[2. Running Imaging Planner](#-2-Running-Imaging-Planner)
+[2. Running Imaging Planner](#2-running-imaging-planner)
 
 **3.	Schedule experiment with crontab**
 
