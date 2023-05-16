@@ -18,26 +18,27 @@ https://onesearch.library.utoronto.ca/ic-faq-categories/utorvpn
 
 b)	Open VPN and connect via your UTORid and password.
 An example run on Windows:
- <img width="308" alt="tutorial_1" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/83c48453-0061-484b-80c2-ea8df4c9ac1c">
+ <img width="600" alt="tutorial_1" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/83c48453-0061-484b-80c2-ea8df4c9ac1c">
 
 
 c)	Windows->Remote Desktop Connection
 In order to connect the Raspberry Pi of the imaging system, you need to run the Remote Desktop Connection.
 Press windows button and write “remote” in the search bar.
- <img width="235" alt="tutorial_2" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/b60ee5e0-7236-495c-8e60-7bb408d6ba57">
+
+ <img width="600" alt="tutorial_2" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/b60ee5e0-7236-495c-8e60-7bb408d6ba57">
 
 
 Enter the IP address of the RPi, and click connect.
 IP: 142.150.215.184
 
- <img width="221" alt="tutorial_3" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/5659bffd-ef47-4689-9089-02cc254de2fb">
+ <img width="600" alt="tutorial_3" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/5659bffd-ef47-4689-9089-02cc254de2fb">
 
 
 d)	Login Raspberry Pi using the User ID and password
 a.	User: pi
 b.	Password: 190190
  
-<img width="210" alt="tutorial_4" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/120bcf88-e3e6-4788-9310-0a2a46e852e8">
+<img width="600" alt="tutorial_4" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/120bcf88-e3e6-4788-9310-0a2a46e852e8">
 
 2.	Running Imaging Planner
 
