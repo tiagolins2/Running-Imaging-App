@@ -43,7 +43,10 @@ b.	Password: 190190
 
 # 2 Running Imaging Planner
 
-a)	click on DuckPlate_imaging.py
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/4f2ed26d-fde3-4bf7-8e2d-387af65591ad
+
+a)	First, open DuckPlate_imaging.py
+
  <img width="200" alt="tutorial_5" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/71af5177-86b0-4146-adad-f1d461fe1e96">
 
 b)	This will open the code. Click the run button 
@@ -84,5 +87,8 @@ i)	Once done, you can now close the app.
 The next step is to schedule when your plates should be imaged.
 
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/4f2ed26d-fde3-4bf7-8e2d-387af65591ad
+
+
+
+
 
