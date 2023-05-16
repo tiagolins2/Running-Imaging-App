@@ -3,7 +3,7 @@ Steps for Controlling Autonomous Tracking System
 
 [1. Connecting to the Image Capturing Board](#1.-connecting-to-the-image-capturing-board)
 
-**2.	Run the image capturing app**
+[2. Running Imaging Planner](#-2.-running-imaging-planner)
 
 **3.	Schedule experiment with crontab**
 
@@ -41,7 +41,7 @@ b.	Password: 190190
 <img width="600" alt="tutorial_4" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/120bcf88-e3e6-4788-9310-0a2a46e852e8">
 
 
-**2.	Running Imaging Planner**
+# 2. Running Imaging Planner
 
 a)	click on DuckPlate_imaging.py
  <img width="200" alt="tutorial_5" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/71af5177-86b0-4146-adad-f1d461fe1e96">
