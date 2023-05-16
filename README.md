@@ -90,12 +90,7 @@ The next step is to schedule when your plates should be imaged.
 
 
 
-
-
-
-
-
-#3 Schedule runs with crontab
+# 3 Schedule runs with crontab
 
 a)	In order to set the a pre-defined date to run the code automatically, we must run crontab code from the Raspberry Pi Terminal. Raspberry Pi Terminal can be opened using the icon on the task bar.
  
