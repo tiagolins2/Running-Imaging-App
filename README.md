@@ -3,7 +3,7 @@ Steps for Controlling Autonomous Tracking System
 
 [1. Connecting to the Image Capturing Board](#1-connecting-to-the-image-capturing-board)
 
-[2. Running Imaging Planner](#2-running-imaging-planner)
+[2. Running the Imaging Planner App](#2-running-the-imaging-planner-app)
 
 [3.	Schedule runs with crontab](#3-schedule-runs-with-crontab)
 
@@ -51,7 +51,7 @@ b.	Password: --------
 
 
 
-# 2 Running Imaging Planner
+# 2 Running the Imaging Planner App
 
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/afac327b-5777-40b3-84b5-72d762619946
 
