@@ -60,7 +60,7 @@ a)	First, open DuckPlate_imaging.py
  <img width="200" alt="tutorial_5" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/71af5177-86b0-4146-adad-f1d461fe1e96">
 
 b)	This will open the code. Click the run button 
- 
+  
 <img width="600" alt="tutorial_6" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/0e7ef8ab-8368-441d-87f6-26077a0e4b3c">
 
 c)	The following window will show up. Define each field using the dropdown options:
