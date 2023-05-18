@@ -170,7 +170,7 @@ d)	After about 30 seconds, the window will be automatically updated with the pho
 You can also store files saved in the board into the server under your account.  
 To do this, you can open the command prompt in the raspberry Pi, and write "expect autom2.exp" (see below) 
 
- <img width="600" alt="tutorial_21" src="images_app/tutorial_21.png">
+ <img width="600" alt="tutorial_21" src="images_app/tutorial_21.png"> 
 
 It will ask you for your user name in Symbiont, a folder name where you want to store all the files (i.e. "test1"), and your password (which won't show up as you type). This will then create the folder in your account and save all the images (from cameras A to D) into the folder.
 
