@@ -55,6 +55,8 @@ b.	Password: --------
 
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/4f2ed26d-fde3-4bf7-8e2d-387af65591ad
 
+![running app](images_app/videos-app/Running Imaging App - How to do calibration.mp4)
+
 a)	First, open DuckPlate_imaging.py
 
  <img width="200" alt="tutorial_5" src="images_app/tutorial_5.png">
