@@ -39,6 +39,7 @@ IP: ---------------
 
 
 d)	Login Raspberry Pi using the User ID and password
+
 a.	User: -----
 b.	Password: --------
  
