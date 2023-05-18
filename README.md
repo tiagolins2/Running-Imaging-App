@@ -32,7 +32,7 @@ Press windows button and write “remote” in the search bar.
 
 
 Enter the IP address of the RPi, and click connect.
-IP: 142.150.215.184
+IP: ---------------
 
  <img width="600" alt="tutorial_3" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/5659bffd-ef47-4689-9089-02cc254de2fb">
 
