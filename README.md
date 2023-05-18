@@ -33,16 +33,17 @@ Press windows button and write “remote” in the search bar.
 
 Enter the IP address of the RPi, and click connect.
 IP: ---------------
+<img width="350" alt="tutorial_3-2" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/3a4cd00d-c918-4624-bbed-d7541816feba">
 
- <img width="600" alt="tutorial_3" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/5659bffd-ef47-4689-9089-02cc254de2fb">
 
 
 d)	Login Raspberry Pi using the User ID and password
-a.	User: pi
-b.	Password: 190190
+a.	User: -----
+b.	Password: --------
  
-<img width="600" alt="tutorial_4" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/120bcf88-e3e6-4788-9310-0a2a46e852e8">
 
+
+<img width="450" alt="tutorial_4-2" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2204e34e-aedc-4308-9bfa-a6eba3d53b8f">
 
 
 
