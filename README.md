@@ -53,9 +53,13 @@ b.	Password: --------
 
 # 2 Running Imaging Planner
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/4f2ed26d-fde3-4bf7-8e2d-387af65591ad
 
-![running app](images_app/videos-app/Running Imaging App - How to do calibration.mp4)
+
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/afac327b-5777-40b3-84b5-72d762619946
+
+
+
+![running app](images_app/videos-app/running imaging app - how to do calibration.mp4)
 
 a)	First, open DuckPlate_imaging.py
 
