@@ -53,13 +53,8 @@ b.	Password: --------
 
 # 2 Running Imaging Planner
 
-
-
 https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/afac327b-5777-40b3-84b5-72d762619946
 
-
-
-![running app](images_app/videos-app/running imaging app - how to do calibration.mp4)
 
 a)	First, open DuckPlate_imaging.py
 
@@ -99,9 +94,10 @@ g)	You can then name each area/pair of plates, and change the dates according to
 
 h)	Once you are done filling out your information, click on Save Plan. As an option, you can also test your plan now by pressing “Run Now” button (*see video below*) allowing you to see the results in the app window, or running the saved plan to view the output in the board.
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/62d48762-8757-47f0-880b-7e52647a5fb5
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/6f33d427-7271-4777-80e9-22f9b66dcb37
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/f5105297-4693-4490-adc2-223a952591e6
+
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/58b455e6-14ed-403b-9dad-a3fe49e650ca
 
 i)	Once done, you can now close the app.
 The next step is to schedule when your plates should be imaged.
@@ -111,7 +107,8 @@ The next step is to schedule when your plates should be imaged.
 
 # 3 Schedule runs with crontab
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2b2375e7-f732-4141-a80f-3a50a3766ef8
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/2f64f415-9eab-46da-ba67-95e92372c206
+
 
 a)	In order to set the a pre-defined date to run the code automatically, we must run crontab code from the Raspberry Pi Terminal. Raspberry Pi Terminal can be opened using the icon on the task bar.
 
@@ -146,7 +143,9 @@ f)	Once you made your changes in crontab and save and exit using Ctrl+X, you wil
 
 # 4 Run the image capturing calibration
 
-https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/50a5f119-324b-46e8-a272-439973160cda
+
+https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/296c5d5c-e1d7-4b4b-9063-a5afc16fc665
+
 
 
 a)	To ensure that there is proper alignment between the cameras and the stages, and to also reduce tilting in the images, you can run the calibration app. Open the file named “DuckPlate_imaging_calibrate.py”
