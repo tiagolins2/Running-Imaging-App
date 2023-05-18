@@ -21,7 +21,7 @@ https://onesearch.library.utoronto.ca/ic-faq-categories/utorvpn
 
 b)	Open VPN and connect via your UTORid and password.
 An example run on Windows:
- <img width="600" alt="tutorial_1" src="https://github.com/tiagolins2/Running-Imaging-App/assets/95873122/83c48453-0061-484b-80c2-ea8df4c9ac1c">
+ <img width="600" alt="tutorial_1" src="https://github.com/images_app/tutorial_1.png">
 
 
 c)	Windows->Remote Desktop Connection
